@@ -3,12 +3,51 @@
   "WorkspaceRootPath": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\lesson 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:lesson 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\data\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:data\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\data\\teachers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:data\\teachers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\data\\test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:data\\test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|c:\\project\\secondmodul\\second modul lessons\\lesson 2\\lesson 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{518F86B9-BA0E-4D94-96EF-E83D5A094E8F}|Lesson 2.csproj|solutionrelative:lesson 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +62,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lesson 2",
-              "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Lesson 2.csproj",
-              "RelativeDocumentMoniker": "Lesson 2.csproj",
-              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Lesson 2.csproj",
-              "RelativeToolTip": "Lesson 2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-05T06:53:47.643Z",
+              "Title": "Students.json",
+              "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Data\\Students.json",
+              "RelativeDocumentMoniker": "Data\\Students.json",
+              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Data\\Students.json",
+              "RelativeToolTip": "Data\\Students.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T07:43:13.088Z",
               "EditorCaption": ""
             },
             {
@@ -39,12 +78,139 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAALUBAAAAAAAAAAAAALsBAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T06:52:11.587Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teachers.json",
+              "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Data\\Teachers.json",
+              "RelativeDocumentMoniker": "Data\\Teachers.json",
+              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Data\\Teachers.json",
+              "RelativeToolTip": "Data\\Teachers.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABCAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T07:43:15.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "Services\\TestService.cs",
+              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Services\\TestService.cs",
+              "RelativeToolTip": "Services\\TestService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:07:21.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "Services\\TeacherService.cs",
+              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Services\\TeacherService.cs",
+              "RelativeToolTip": "Services\\TeacherService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:07:39.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:34:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:01:27.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Models\\Test.cs",
+              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Models\\Test.cs",
+              "RelativeToolTip": "Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:08:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Test.json",
+              "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Data\\Test.json",
+              "RelativeDocumentMoniker": "Data\\Test.json",
+              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Data\\Test.json",
+              "RelativeToolTip": "Data\\Test.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T07:43:17.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALoUAAAAAAAAAAD4v8kUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-11T08:48:05.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:03:07.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lesson 2.csproj",
+              "DocumentMoniker": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Lesson 2.csproj",
+              "RelativeDocumentMoniker": "Lesson 2.csproj",
+              "ToolTip": "C:\\Project\\SecondModul\\Second Modul Lessons\\Lesson 2\\Lesson 2.csproj",
+              "RelativeToolTip": "Lesson 2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T06:53:47.643Z"
             }
           ]
         }
